@@ -1,4 +1,4 @@
-##Tumor Grader
+##Tumor Grader  
 Originally the goal of the project was to develop a classifier for grading tumors. However, a lot of challenges occurred, so the scope of the project changed. The heterogeneity of tumors, especially for the higher grade tumors, was particularly challenging. The focus was then to develop a semi-automatic tumor(and its site of influence) segmentation and analysis method. The same code and procedure was then applied to tumors of Grade II and III to check its validity. 
 
 Findings:   
